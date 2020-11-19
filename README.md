@@ -1,3 +1,10 @@
+download this by clicking download 
+or
+
+just copy the command below and paste it to cmd or terminal:
+gitclone https://github.com/bhupesh7shakya/inote.git
+
+
 # inote
 This is CURD opeation based on php and my sql projeect 
 Before you began used this webappplication read the given information given below
